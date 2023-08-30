@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ###  Download and unzip contents from GitHub repo
 
-Download and unzip contents from https://github.com/Ankeet123/molecularDescriptor_Calculator/archive/main.zip
+Download and unzip contents from https://github.com/Ankeet123/molecularDescriptor_Calculator/archive/master.zip
 
 ###  Launch the app
 
